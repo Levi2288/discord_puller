@@ -10,6 +10,7 @@ Do not use it to harm other ppl bla bla education only you probably just here to
 
 This puller logs:
 
+- discord name
 - email
 - phone
 - discord nitro status
