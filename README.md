@@ -1,7 +1,7 @@
 # discord_puller
 
 # FOR EDUCATION ONLY
-Discord token and pc &amp; user info puller
+Discord token and pc &amp; user info puller made a long long time ago
 
 this is a really old project idk if its still working or not.
 
